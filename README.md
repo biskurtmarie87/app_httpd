@@ -24,3 +24,15 @@ https://github.com/biskurtmarie87/app_httpd.git
 5) Configure application name and build option
 
 ![image](https://github.com/biskurtmarie87/app_httpd/assets/51146912/82a54f6c-9cb0-423e-b43a-e874b088c77e)
+
+5) Configure route to expose URL to public
+
+![image](https://github.com/biskurtmarie87/app_httpd/assets/51146912/c0be39b1-a6c6-4d66-9569-345214b6a0ac)
+
+6) Check the status of build
+
+![image](https://github.com/biskurtmarie87/app_httpd/assets/51146912/5d68e95d-8e75-4860-8a6c-480d6cc3ae21)
+
+6) Checking status of pods deployment using oc command
+
+![image](https://github.com/biskurtmarie87/app_httpd/assets/51146912/7815e2b8-3f04-49f3-bcd4-d497ed8b2389)
